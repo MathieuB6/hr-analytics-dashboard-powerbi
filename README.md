@@ -33,6 +33,11 @@ L’objectif est d’analyser les départs salariés, les salaires, les profils 
 - storytelling data ;
 - création d’indicateurs RH.
 
+## Données
+
+Dataset : IBM HR Analytics Employee Attrition & Performance.
+https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
 ## Structure du dashboard
 
 Le rapport Power BI est composé de 4 pages :
@@ -131,6 +136,11 @@ The goal is to analyze employee departures, salaries, workforce profiles and pot
 - interactive dashboard design;
 - data storytelling;
 - HR KPI creation.
+
+## Data
+
+Dataset : IBM HR Analytics Employee Attrition & Performance.
+https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 ## Dashboard Structure
 
