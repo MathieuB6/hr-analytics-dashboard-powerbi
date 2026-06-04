@@ -46,22 +46,21 @@ Le rapport Power BI est composé de 4 pages :
 
 ### Vue d’ensemble RH
 
-<img width="1605" height="823" alt="vue_ensemble" src="https://github.com/user-attachments/assets/edc9b7f7-8eff-4ddc-9958-3cdd67eee2fd" />
-
+<img width="1514" height="822" alt="vue_ensemble" src="https://github.com/user-attachments/assets/29f26ace-44fe-4122-bafc-f5f7cf950448" />
 
 ### Analyse des départs salariés
 
-<img width="1519" height="820" alt="analyse_departs" src="https://github.com/user-attachments/assets/cd32992d-b495-46f6-9d16-72621aae0f1f" />
+<img width="1508" height="823" alt="analyse_departs" src="https://github.com/user-attachments/assets/4a7022aa-84a2-4047-b72b-ace89fb0d951" />
 
 
 ### Salaires et profils employés
 
-<img width="1493" height="816" alt="salaires_profils" src="https://github.com/user-attachments/assets/a08d903b-934a-4f72-8639-7e346489a3ba" />
+<img width="1505" height="819" alt="salaires_profils" src="https://github.com/user-attachments/assets/2202c2f9-309f-4353-8eb5-ba208ba99358" />
 
 
 ### Profil RH et facteurs de risque
 
-<img width="1499" height="822" alt="facteurs_risque" src="https://github.com/user-attachments/assets/d23252ed-92f5-45bd-83bb-7b67d7018e9d" />
+<img width="1495" height="820" alt="facteurs_risque" src="https://github.com/user-attachments/assets/fa583f6a-f87a-4d6e-b0e8-5ea719e941cc" />
 
 
 ## Indicateurs clés
@@ -146,21 +145,21 @@ The Power BI report contains 4 pages:
 
 ### HR Overview
 
-<img width="1605" height="823" alt="vue_ensemble" src="https://github.com/user-attachments/assets/65004a1a-81e6-42d7-801d-789ae6eb1225" />
+<img width="1514" height="822" alt="vue_ensemble" src="https://github.com/user-attachments/assets/29f26ace-44fe-4122-bafc-f5f7cf950448" />
 
 
 ### Employee Departure Analysis
 
-<img width="1519" height="820" alt="analyse_departs" src="https://github.com/user-attachments/assets/fe9de983-5f20-4191-8848-e88cd9149e61" />
+<img width="1508" height="823" alt="analyse_departs" src="https://github.com/user-attachments/assets/4a7022aa-84a2-4047-b72b-ace89fb0d951" />
 
 
 ### Salaries and Employee Profiles
 
-<img width="1493" height="816" alt="salaires_profils" src="https://github.com/user-attachments/assets/3912f972-62d6-4ffb-b2b5-852acb02d3dd" />
+<img width="1505" height="819" alt="salaires_profils" src="https://github.com/user-attachments/assets/2202c2f9-309f-4353-8eb5-ba208ba99358" />
 
 ### HR Profile and Risk Factors
 
-<img width="1499" height="822" alt="facteurs_risque" src="https://github.com/user-attachments/assets/babde58f-4958-4a73-9b35-8d9f60e6f151" />
+<img width="1495" height="820" alt="facteurs_risque" src="https://github.com/user-attachments/assets/fa583f6a-f87a-4d6e-b0e8-5ea719e941cc" />
 
 
 ## Key Indicators
