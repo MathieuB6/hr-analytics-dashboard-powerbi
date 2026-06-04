@@ -36,6 +36,7 @@ L’objectif est d’analyser les départs salariés, les salaires, les profils 
 ## Données
 
 Dataset : IBM HR Analytics Employee Attrition & Performance.
+
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 ## Structure du dashboard
@@ -140,6 +141,7 @@ The goal is to analyze employee departures, salaries, workforce profiles and pot
 ## Data
 
 Dataset : IBM HR Analytics Employee Attrition & Performance.
+
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 ## Dashboard Structure
